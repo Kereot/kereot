@@ -46,7 +46,9 @@ I'm currently building my own pet project on Django/DRF — a website for a psyc
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 **Education:** M.A. in Public Procurement Management, Moscow Region State University (2020) · MGIMO, Commerce with foreign languages, honors (2006)
+<br>
 **Certifications:** Python Developer, Yandex.Practicum (2026) · Java Development, GeekBrains (2023)
+<br>
 **Languages:** Russian (native) · English (C1) · Spanish (A2) · French (A1)
 
 ---
