@@ -15,7 +15,7 @@
 
 I spent 19+ years in public procurement management — from specialist to deputy director — before deciding that the future is in technology and I want to be part of it. I completed a developer course at GeekUniversity (Mail.Ru Group) and later Yandex.Practicum's Python course, which gave me hands-on experience with Django/DRF, sprints, code review and working from a spec.
 
-I'm currently building my own pet project on Django/DRF — a website for a psychotherapist to publish research articles and take consultation request. I've also become interested in **AI agents** and how they change the development workflow.
+I'm currently building my own pet project on **Django/DRF** — a website for a psychotherapist to publish research articles and take consultation request. I've also become interested in AI agents and how they change the development workflow.
 
 ---
 
