@@ -2,7 +2,7 @@
 
 # Hi, I'm Dmitrii 👋
 
-**Python / Django Developer** based outside Russia, open to **remote** work, internships and project-based gigs
+**Python / Django Developer**, open to **remote** work, internships and project-based gigs
 
 [![Telegram](https://img.shields.io/badge/Telegram-@kereot-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/kereot)
 [![Gmail](https://img.shields.io/badge/Email-eepdmitriy%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:eepdmitriy@gmail.com)
