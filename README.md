@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi, I'm Dmitry 👋
+# Hi, I'm Dmitrii 👋
 
 **Python / Django Developer** based outside Russia, open to **remote** work, internships and project-based gigs
 
