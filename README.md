@@ -49,7 +49,7 @@ I'm currently building my own pet project on **Django/DRF** — a website for a 
 <br>
 **Certifications:** Python Developer, Yandex.Practicum (2026) · Java Development, GeekBrains (2023)
 <br>
-**Languages:** Russian (native) · English (C1) · Spanish (A2) · French (A1)
+**Languages:** Russian (native) · English (C1) · Spanish (A2)
 
 ---
 
